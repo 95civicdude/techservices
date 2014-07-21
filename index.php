@@ -9,6 +9,7 @@
 <body>
 <h1>This is a test PHP page</h1>
 <h2>This is a second line</h2>
+<h3>This is a third line</h3>
 
 </body>
 </html>
